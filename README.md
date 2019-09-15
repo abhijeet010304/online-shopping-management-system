@@ -8,4 +8,4 @@ Different functions for  /storing data/ deleting data / modifying data are also 
 How to Run
 pass to enter into the project-abhijit
 
-Put all the source file in a driectory and run- gcc stu_rec_ll.c
+Put all the source file in a directory and run- gcc oops.cpp
